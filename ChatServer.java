@@ -1,14 +1,8 @@
-//================================================================
+//==============================================================================
 // Name         : Nidhi Patel
-// SID          : 31379144
-// Course       : IT114
-// Section      : 452
-// Instructor 	: Maura Deek
-// Assignment # : Programming Assignment 5
 // Date        	:  04/22/2016
-// Description  : This  is the server class for a
-				 // a client/server chat application
-//=================================================================
+// Description  : This  is the server class for a client/server chat application
+//==============================================================================
 import java.io.*;
 import java.net.*;
 
